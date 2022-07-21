@@ -1,0 +1,9 @@
+{
+    "trailingComma": "es5",
+    "tabWidth": 4,
+    "printWidth": 80,
+    "quoteProps": "as-needed",
+    "singleQuote": false,
+    "overrides": [
+    ]
+}
